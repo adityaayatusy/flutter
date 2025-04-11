@@ -18,7 +18,7 @@ vars = {
   'llvm_git': 'https://llvm.googlesource.com',
   'skia_revision': 'e7b8d078851fd505475fe74359e31a421e6968ea',
   "dart_sdk_revision": "87965ab4864e444c521023820eb06e569d007059",
-  "dart_sdk_git": "https://dart.googlesource.com/sdk",
+  "dart_sdk_git": "https://dart.googlesource.com/sdk.git",
   "updater_git": "https://github.com/adityaayatusy/updater.git",
   "updater_rev": "86a56652c7e7305e09bc9ddd9cdb4e2bb3ffecb4",
 
